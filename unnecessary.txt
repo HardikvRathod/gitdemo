@@ -1,0 +1,1 @@
+This is unnecessary file which is ignore by .ignore directory.sfgreta
