@@ -1,1 +1,2 @@
 Hi, I am hardik.
+This is a place where we learn git and github basics.
